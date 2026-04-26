@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bl4d3rvnner7&label=Profile%20views&color=0e75b6&style=flat" alt="bl4d3rvnner7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=bl4d3rvnner7&theme=nord" alt="bl4d3rvnner7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=bl4d3rvnner7&theme=nord" alt="bl4d3rvnner7" /></a> </p>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bl4d3rvnner7&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="bl4d3rvnner7's Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4d3rvnner7&theme=blue-green" alt="bl4d3rvnner7's Languages"><br />
